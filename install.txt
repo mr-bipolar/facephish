@@ -1,10 +1,10 @@
 moded by Mr.silent coder  
 
-⛔ fbphish is built for Educational Purpose. Use at your own Risk.
+⛔ facephish is built for Educational Purpose. Use at your own Risk.
 
   📢 Legal disclaimer:
 
-     Usage of fbphish for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program. Only use for educational purposes.
+     Usage of facephish for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program. Only use for educational purposes.
 
  ➤ move this install.txt file
 
@@ -23,7 +23,7 @@ moded by Mr.silent coder
 
    ▸ Now install Heroku CLI on your Computer (https://devcenter.heroku.com/articles/heroku-cli)
 
-   ▸ Now change the directory to fbphish using command cd fbphish
+   ▸ Now change the directory to facephish using command cd facephish
 
    ▸ install phpmailer -> composer require phpmailer/phpmailer
 
