@@ -45,7 +45,7 @@ if($lines){
      else{
                // add your site url here.. https://sitename.com/login.php?error
 
-        header("Location: /login.php?error");
+        header("Location: /index.php?error");
 
         exit();
      }
